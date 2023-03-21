@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c1f7c63-66b7-49e9-a405-cc13baa95d0e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstJavaTutorial.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectReferenceApp.java" afterDir="false" />
-    </list>
+    <list default="true" id="9c1f7c63-66b7-49e9-a405-cc13baa95d0e" name="Changes" comment="Added ObjectReferenceApp.java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,6 +63,18 @@
       <option name="presentableId" value="Default" />
       <updated>1679348311185</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added ObjectReferenceApp.java">
+      <created>1679431627876</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679431627876</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added ObjectReferenceApp.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added ObjectReferenceApp.java" />
   </component>
 </project>
