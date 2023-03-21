@@ -9,7 +9,7 @@ public class ObjectReferenceApp {
         Boolean isDamaged = true;
         Character energyEfficiencyCategory = 'G';
         String carModel = "Dodge Challenger SRT 392";
-        String carModel2 = new String("Dodge Challenger SRT 392");
+        String carModel2 = new String("Dodge Challenger SsRT 392");
 
         System.out.println(numberOfSeats);
         System.out.println(horsePower);

@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c1f7c63-66b7-49e9-a405-cc13baa95d0e" name="Changes" comment="Added ObjectReferenceApp.java" />
+    <list default="true" id="9c1f7c63-66b7-49e9-a405-cc13baa95d0e" name="Changes" comment="Test">
+      <change beforePath="$PROJECT_DIR$/src/ObjectReferenceApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectReferenceApp.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,11 +72,30 @@
       <option name="project" value="LOCAL" />
       <updated>1679431627876</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Test">
+      <created>1679432176591</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679432176591</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added ObjectReferenceApp.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added ObjectReferenceApp.java" />
+    <MESSAGE value="Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test" />
   </component>
 </project>
